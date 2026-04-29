@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Variables de entorno (Factor III)
+.env
+
+# macOS
+.DS_Store
+
+# Builds y reportes
+dist/
+coverage/
+.pytest_cache/
